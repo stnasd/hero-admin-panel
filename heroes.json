@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": "4d19f7ce-fd24-4bd7-9f73-998552f626e9",
+      "name": "Робокоп",
+      "description": "Железный полицейский",
+      "element": "earth"
+    },
+    {
+      "id": "d0ea7dcf-45e2-4c2a-bb79-05dc172f4484",
+      "name": "Человек с пивом ",
+      "description": "Пьет пиво литрами ",
+      "element": "water"
+    },
+    {
+      "id": "c59d566c-860c-44fa-91bf-e225d5272b98",
+      "name": "Loki",
+      "description": "Негодяй",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn btn-outline-dark active"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn btn-secondary"
+    }
+  ]
+}
